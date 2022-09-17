@@ -1,2 +1,21 @@
 # Hyland_India_Hackathon_2022_PocketDoctor
-This project talks about Online Doctor Consultation &amp; Health Monitoring Set-up, which monitors the patient without needing them to visit the doctor in person. This system implemented using IoT also enables the doctor to store the patient data for future reference. The doctor and the patient can interact with each other using a video conference, the doctors can prescribe the treatment, and all of this is made feasible by this platform.  This module provides the opportunity for all-day service and patient monitoring for the doctor, with the bonus of being notified in any case of an emergency.  This platform forms a great use when a patient is under regular medical check-ups or home care for a long time.
+
+![Screenshot (2022)](https://user-images.githubusercontent.com/67807475/190874493-9b8eed01-74a7-4ff2-a248-c6748326399f.png)
+![Screenshot (756)](https://user-images.githubusercontent.com/67807475/190874561-f2d1d311-5ce4-42dd-8b37-a3bace9c5b32.png)
+![Screenshot (2024)](https://user-images.githubusercontent.com/67807475/190875031-e835deca-44a0-4bc7-bbc2-613d8100704c.png)
+![Screenshot (2025)](https://user-images.githubusercontent.com/67807475/190875039-8cf62e2b-5423-4ec2-8f78-a55839dc7868.png)
+![Screenshot (2026)](https://user-images.githubusercontent.com/67807475/190875042-fc72e41c-55ac-4696-9e03-8c34f5f74bfe.png)
+![Screenshot (2027)](https://user-images.githubusercontent.com/67807475/190875044-994853eb-6ee8-439e-8dd1-f11d09691536.png)
+![Screenshot (2028)](https://user-images.githubusercontent.com/67807475/190875046-0219e177-32dc-475b-b002-d87f6703078f.png)
+![Screenshot (2029)](https://user-images.githubusercontent.com/67807475/190875049-e5dabbf3-8420-47bb-bbde-aa923e010c2e.png)
+![Screenshot (2030)](https://user-images.githubusercontent.com/67807475/190875053-068944af-2061-4bd6-a828-170f9e06089d.png)
+![Screenshot (2031)](https://user-images.githubusercontent.com/67807475/190875055-6e20a521-167e-4211-99e7-47279eca26a5.png)
+![Screenshot (2032)](https://user-images.githubusercontent.com/67807475/190875060-f6d35df2-e80a-45d1-9807-1b46a93d2fb6.png)
+![Screenshot (2041)](https://user-images.githubusercontent.com/67807475/190875064-117b720c-cdcf-43e1-8abf-a087bc048e38.png)
+![Screenshot (2034)](https://user-images.githubusercontent.com/67807475/190875073-d2f96693-6e75-4b4a-bc85-e5e6b8e8a283.png)
+![Screenshot (2035)](https://user-images.githubusercontent.com/67807475/190875081-f4596fd6-3018-4534-8d30-e1e5c8104740.png)
+![Screenshot (2036)](https://user-images.githubusercontent.com/67807475/190875086-e487b960-e2d8-4838-82f6-995f5b41d9fa.png)
+![Screenshot (2037)](https://user-images.githubusercontent.com/67807475/190875093-feadb11a-6e31-4bde-b688-675e3edb1313.png)
+![Screenshot (2038)](https://user-images.githubusercontent.com/67807475/190875099-35f6927a-9cf9-4a59-94b5-1c8290a3c408.png)
+![Screenshot (2039)](https://user-images.githubusercontent.com/67807475/190875107-284beb31-5be1-4700-b2fe-f9ba02605512.png)
+![Screenshot (2040)](https://user-images.githubusercontent.com/67807475/190875114-69fb60f6-0deb-43e0-86cd-3449bb87ff78.png)
